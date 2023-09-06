@@ -1,6 +1,8 @@
 # NODE
 ALL ABOUT NODE...
 
+Getting started guide to Node.js, the server-side JavaScript runtime environment. Node.js is built on top of the Google Chrome V8 JavaScript engine, and it's mainly used to create web servers - but it's not limited to just that.
+
 Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 
 Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
@@ -14,5 +16,3 @@ This allows Node.js to handle thousands of concurrent connections with a single 
 Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
 
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
-
-An Example Node.js Application
